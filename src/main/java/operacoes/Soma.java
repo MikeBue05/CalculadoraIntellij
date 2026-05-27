@@ -9,4 +9,4 @@ public class Soma {
         int y = scanner.nextInt();
         System.out.println(x + y);
     }
-}
+} //
